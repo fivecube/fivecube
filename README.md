@@ -19,7 +19,3 @@
 - E-mail: mohitchouhan1947@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
-
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=fivecube)](https://github.com/fivecube/github-readme-stats))
-[stackoverflow]: https://stackoverflow.com/users/9753172/5cube
-[github]: https://github.com/fivecube
