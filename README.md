@@ -18,4 +18,7 @@
 - LinkedIn: [https://www.linkedin.com/in/5cube/]
 - E-mail: mohitchouhan1947@gmail.com
 
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=fivecube)](https://github.com/fivecube/github-readme-stats))
+
 ### 📚 Looking for my Resume? E-Mail me!
+
