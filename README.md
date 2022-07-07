@@ -5,11 +5,9 @@
 - 👯 I’m looking to collaborate on **Open Source** projects.
 
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-red)
-![JavaScript](https://img.shields.io/badge/Javascript-Intermediate-yellow)
+
 ![Python](https://img.shields.io/badge/Python-Expert-brightgreen)
-![Java](https://img.shields.io/badge/Java-Beginner-orange)
+
 
 ### 📬 Get in Touch
 
