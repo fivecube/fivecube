@@ -108,3 +108,6 @@ _(IBM Hack Challenge Winning Project)_
 <p align="center">
   <i>“Building reliable systems that scale.”</i>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/down_bar.png" width="100%" alt="Banner Image">
+</p>
